@@ -1,0 +1,8 @@
+github_users:
+  - hmd101
+
+repo_description_lines_max: 2
+
+github_repos:
+  - plenoptic-org/plenoptic
+  - hmd101/deepCars
