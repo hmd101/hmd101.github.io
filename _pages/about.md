@@ -25,7 +25,7 @@ Put your address / P.O. box / other info right below your picture. You can also 
 Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them. 
 -->
 
-I am a Master's student in psychology at [New York University (NYU)](https://www.nyu.edu/) and in computer science at the [University of Tübingen](https://uni-tuebingen.de/en/). I am also a guest researcher at the [Computational Center for Neuroscience of the Flatiron Institute](https://www.simonsfoundation.org/flatiron/center-for-computational-neuroscience/).
+I am a Master's student in psychology at [New York University (NYU)](https://www.nyu.edu/) and in computer science at the [University of Tübingen](https://uni-tuebingen.de/en/). I am also a guest researcher at the [Center for Computational Neuroscience of the Flatiron Institute](https://www.simonsfoundation.org/flatiron/center-for-computational-neuroscience/).
 
 I am interested in human and artificial intelligence and how to bridge the gap between the two. Specifically, I am interested in developing computational models of the complex cognitive abilities of humans from visual information processing to natural language. My current research investigates to what degree large language models can understand cause and effect and reason in ways similar to humans. I am also developing [tools to understand internal representations of vision models](https://github.com/plenoptic-org/plenoptic).
 
