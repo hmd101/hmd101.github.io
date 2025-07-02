@@ -41,4 +41,4 @@ I am broadly interested in the **computational ingredients of intelligence** —
 
 Looking ahead, I'm particularly excited about the role of **uncertainty quantification** in making AI systems more robust and **trustworthy**. I believe that enabling AI systems *to know what they don't know* — and to communicate this uncertainty appropriately — will be crucial for deploying them safely in real-world scenarios. I'm also interested in exploring how insights from human cognition can inform the development of more adaptive **agentic AI** systems that can pursue goals autonomously while learning efficiently from limited data and generalizing better to new situations.
 
-In my free time, I enjoy travelling by bicycle and playing any sports that involves a ball or a board.
+In my free time, I enjoy travelling by bicycle, board games, and  playing any sports that involves a ball.
