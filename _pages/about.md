@@ -16,7 +16,7 @@ social: false # includes social icons at the bottom of the page
 ---
 
 
-<!--## test Instructions:
+<!--## Instructions:
 
 Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
@@ -39,6 +39,6 @@ Currently, I am a summer intern at the [Center for Computational Neuroscience of
 
 I am broadly interested in the **computational ingredients of intelligence** — both human and artificial. My current thesis research focuses on **causal reasoning** in humans and large language models (LLMs), with a recent [publication examining how LLMs compare to human causal inference patterns and biases](https://arxiv.org/abs/2502.10215v1). More broadly, I'm interested in using machine learning methods to deepen our understanding of human cognition, while drawing on insights from psychology to inform the development of more reliable AI systems that more closely mirror human expectations.
 
-Looking ahead, I'm particularly excited about the role of uncertainty quantification in making AI systems more robust and trustworthy. I believe that enabling AI systems *to know what they don't know* — and to communicate this uncertainty appropriately — will be crucial for deploying them safely in real-world scenarios. I'm also interested in exploring how insights from human cognition can inform the development of more adaptive **agentic AI** systems that can pursue goals autonomously while learning efficiently from limited data and generalizing better to new situations.
+Looking ahead, I'm particularly excited about the role of **uncertainty quantification** in making AI systems more robust and **trustworthy**. I believe that enabling AI systems *to know what they don't know* — and to communicate this uncertainty appropriately — will be crucial for deploying them safely in real-world scenarios. I'm also interested in exploring how insights from human cognition can inform the development of more adaptive **agentic AI** systems that can pursue goals autonomously while learning efficiently from limited data and generalizing better to new situations.
 
 In my free time, I enjoy travelling by bicycle and playing any sports that involves a ball or a board.
