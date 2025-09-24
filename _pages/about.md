@@ -39,7 +39,7 @@ I previously earned a Master's in [Psychology at New York University (NYU)](http
  I earned a Bachelor's degree in [Cognitive Science](https://plato.stanford.edu/entries/cognitive-science/) from the University of Tübingen, Germany (2022) with semesters abroad in Taiwan and Hong Kong, 
  and my Bachelor's thesis on "Probabilistic Modeling of Infectious Disease Dynamics" was advised by [Prof. Philipp Hennig](https://uni-tuebingen.de/en/fakultaeten/mathematisch-naturwissenschaftliche-fakultaet/fachbereiche/informatik/lehrstuehle/methods-of-machine-learning/start/).
 
-Currently, I am a summer intern at the [Center for Computational Neuroscience of the Flatiron Institute (CCN)](https://www.simonsfoundation.org/flatiron/center-for-computational-neuroscience/) in New York City. 
+Currently, I am a research analyst at the [Center for Computational Neuroscience of the Flatiron Institute (CCN)](https://www.simonsfoundation.org/flatiron/center-for-computational-neuroscience/) in New York City. 
 Advised by [Prof. Alex Williams](https://neurostatslab.org/), my work focuses on developing **a scalable Bayesian machine learning framework** to support adaptive trial placement  in psychophysical experiments  to better understand human (color) perception.
 I am broadly interested in the **computational ingredients of intelligence** — both human and artificial. 
 My current thesis research focuses on **causal reasoning** in humans and **large language models (LLMs)**, with a recent [publication examining how LLMs compare to human causal inference patterns and biases](https://arxiv.org/abs/2502.10215v1).

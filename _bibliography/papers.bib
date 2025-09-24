@@ -19,8 +19,8 @@
 
 @inproceedings{dettki2024dolarge,
   title       = {Do Large Language Models Understand Cause and Effect?},
-  author      = {Dettki, Hanna M. and Wu, Charley and Lake, Brenden and Rehder, Bob},
-  booktitle   = {WiML Workshop at NeurIPS},
+  author      = {Dettki, H. M. and Wu, Charley and Lake, Brenden and Rehder, Bob},
+  booktitle   = {Workshop at NeurIPS},
   year        = {2024},
   pdf         = {papers/wiml_cause_effect_llms.pdf},
   preview     = {wiml_cause_effect_llms.png},
@@ -41,14 +41,37 @@
 
 @inproceedings{dettki2025largelanguagemodelsreason,
   title       = {Do Large Language Models Reason Causally Like Us? Even Better?},
-  author      = {Hanna M. Dettki and Brenden M. Lake and Charley M. Wu and Bob Rehder},
+  author      = {H. M. Dettki and Brenden M. Lake and Charley M. Wu and Bob Rehder},
   booktitle   = {arXiv preprint},
   year        = {2025},
   abstract    = {Causal reasoning is a core component of intelligence. Large language models (LLMs) have shown impressive capabilities in generating human-like text, raising questions about whether their responses reflect true understanding or statistical patterns. We compared causal reasoning in humans and four LLMs using tasks based on collider graphs, rating the likelihood of a query variable occurring given evidence from other variables. We find that LLMs reason causally along a spectrum from human-like to normative inference, with alignment shifting based on model, context, and task. Overall, GPT-4o and Claude showed the most normative behavior, including "explaining away", whereas Gemini-Pro and GPT-3.5 did not. Although all agents deviated from the expected independence of causes - Claude the least - they exhibited strong associative reasoning and predictive inference when assessing the likelihood of the effect given its causes. These findings underscore the need to assess AI biases as they increasingly assist human decision-making.},
   pdf         = {https://arxiv.org/pdf/2502.10215},
   arxiv       = {https://arxiv.org/abs/2502.10215},
-  code        = {https://github.com/hmd101/causalalign},
-  preview     = {2025_cogsci_sub.png},
+  preview     = {logo.png},
+  bibtex_show = {true}
+}
+
+
+
+@inproceedings{dettki2025thesis,
+  title       = {Reasoning Strategies and Robustness in Language Models:  Contrasting  Reasoning in Humans and  Large Language Models On a Causal Benchmark},
+  author      = {H. M. Dettki and Brenden M. Lake and Charley M. Wu and Bob Rehder},
+  booktitle   = {Master's Thesis in Machine Learning, University of Tuebingen},
+  year        = {2025},
+  abstract    = {
+                 Large Language Models (LLMs) have made significant strides in natural language processing and exhibit impressive capabilities in natural language understanding and generation.
+                 However, to what degree language models are able to perform causal reasoning, often considered a hallmark of intelligence, and whether their responses \emph{align with human reasoning} remains underexplored.
+                 However, how they reason, and to what degree they align with human reasoning remains underexplored. 
+                 To this end, we evaluate over 20 LLMs on 11  causal reasoning tasks formalized by a collider graph and compare their performance to that of humans on the same tasks. We also evaluate to what extent causal reasoning depends on knowledge about common causal relationships in the natural world, on the degree of irrelevant information in the prompt, and on the reasoning budget.
+                 We find that most LLMs are aligned with  human reasoning up to ceiling effects with chain of thought increasing alignment for LLMs that were misaligned under single-shot prompting.
+                 We further find  that most LLMs reason in a more deterministic, rule-like way than humans.
+                 Chain-of-thought prompting increases reasoning consistency and, under noisy prompts, also pushes some LLMs' reasoning from a probabilistic to a more deterministic regime. 
+                 Reasoning is robust to replacing real-world content with abstract placeholders but degrades when prompts are injected with irrelevant text; in these cases, chain-of-thought recovers much of the lost performance. 
+                 Across experiments, many models exceed human baselines on qualitative reasoning signatures such as explaining-away and Markov compliance, which humans typically exhibit only weakly or violate.
+                 Together, we find a divergence in reasoning style: humans rely more on probabilistic judgments, whereas many LLMs default to near-deterministic rules. Such determinism can enhance reliability and augment human reasoning by providing stable, rule-like outputs. Yet it also risks failure in real-world settings where uncertainty is intrinsic, underscoring the need to better characterize LLM reasoning strategies to guide their safe and effective application.},
+  pdf         = {papers/thesis_09_24_25.pdf},
+  code        = {https://github.com/hmd101/causAIign},
+  preview     = {logo.png},
   bibtex_show = {true}
 }
 
