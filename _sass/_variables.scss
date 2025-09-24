@@ -36,9 +36,14 @@ $nyu-ultra-violet: #8900e1 !default;
 $nyu-deep-violet: #330662 !default;
 $nyu-light-violet1: #ab82c5 !default;
 
+//causAIign colors
+$causAIign-dark: #0A506E !default;
+$causAIign: #176785 !default;
+$causAIign-light: #3AA0AB !default;
+
 // Theme colors
 
-$code-bg-color-light: rgba($nyu-violet, 0.05);
+$code-bg-color-light: rgba($causAIign, 0.05);
 $code-bg-color-dark: #2c3237 !default;
 
 // Font awesome location
