@@ -2,7 +2,7 @@
 layout: page
 permalink: /code/
 title: Code
-description: Open-source libraries and research projects I’ve built, maintain, or contributed to:
+description: Open-source libraries and research projects I’ve built, maintain, or contributed to.
 nav: true
 nav_order: 4
 ---
