@@ -3,8 +3,8 @@
 # -----------------------------------------------------------------------------
 
 title: blank # the website title (if blank, full name will be used instead)
-first_name: H.
-middle_name: M.
+first_name: Hanna
+middle_name:
 last_name: Dettki
 email: hmd8142@nyu.edu
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
@@ -313,7 +313,7 @@ display_categories: ["external-services"] # these categories will be displayed o
 
 scholar:
   last_name: [Dettki]
-  first_name: [H., M.]
+  first_name: [Hanna]
 
   style: apa
   locale: en

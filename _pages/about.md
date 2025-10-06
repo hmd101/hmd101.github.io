@@ -25,28 +25,23 @@ Put your address / P.O. box / other info right below your picture. You can also 
 Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them. 
 -->
 
-<!--I am a Master's student in Psychology at [New York University (NYU)](https://www.nyu.edu/) and in Computer Science at the [University of Tübingen](https://uni-tuebingen.de/en/). I am also a guest researcher at the [Center for Computational Neuroscience of the Flatiron Institute (CCN)](https://www.simonsfoundation.org/flatiron/center-for-computational-neuroscience/) in NYC.-->
 
-<!--I am interested in human and artificial intelligence and how to bridge the gap between the two. Specifically, I am interested in developing computational models of the complex cognitive abilities of humans from visual information processing to natural language and reasoning. My current research investigates to what degree large language models can understand cause and effect and whether they exhibit biases observed in human reasoning. I am also developing [tools to understand internal representations of vision models](https://github.com/plenoptic-org/plenoptic) at CCN.-->
 
-<!--In October 2023, I founded the [Cognitive Science Club at NYU](https://haannaa.notion.site/Cognitive-Science-Club-NYU-b96d8d3c5a9b473f8afd7872a2bcae14), which features regular speakers and discussions on topics related to Computer Science, Neuroscience, and Psychology. Prior to starting my Master's degree at NYU on a [Fulbright scholarship](https://www.fulbrightprogram.org/), I studied Cognitive and Computer Science at the University of Tübingen with semesters abroad at National Cheng Kung University, Taiwan and Hong Kong University (HKU). -->
+I am currently a Research Associate at the [Flatiron Institute](https://www.simonsfoundation.org/flatiron/center-for-computational-neuroscience/), where I develop [psyphy](https://hmd101.github.io/psyphy/), an open-source framework for cognitive modeling and adaptive experiments. More broadly, my work focuses on building reproducible computational tools to formalize and quantify human and AI cognition.
 
-<!--In my free time, I enjoy running, bikepacking, and exploring NYC. -->
+As a Fulbright scholar at NYU, under the supervision of [Prof. Brenden Lake](https://lake-lab.github.io/) and  [Prof. Bob Rehder](https://wp.nyu.edu/bobrehderlab/), I investigated human–AI alignment through the lens of causal reasoning. This work culminated in a [peer-reviewed publication](https://arxiv.org/abs/2502.10215) and was further developed in my master’s [thesis](https://hmd101.github.io/assets/pdf/papers/thesis_09_24_25.pdf), which introduced  [causAIign](https://github.com/hmd101/causAIign), an open-source benchmark and analysis framework for comparing human and LLM reasoning on the same causal tasks. Broadly, I am interested in narrowing the gap between human and machine cognition — working toward AI systems that, especially in sensitive domains such as healthcare, can represent users’ goals and intentions and interact in ways that are cooperative, trustworthy, and aligned with human well-being.
 
-I am a Master's student in [Machine Learning at the University of Tübingen](https://uni-tuebingen.de/en/study/finding-a-course/degree-programs-available/detail/course/machine-learning-master/) advised by [Prof. Charley Wu](https://hmc-lab.com) and [Prof. Brenden Lake](https://lake-lab.github.io/). 
-I previously earned a Master's in [Psychology at New York University (NYU)](https://as.nyu.edu/departments/psychology/graduate/ma-psychology.html) on a  [Fulbright scholarship](https://www.fulbrightprogram.org/) (2025)
- advised by [Prof. Brenden Lake](https://lake-lab.github.io/) and [Prof. Bob Rehder](https://wp.nyu.edu/bobrehderlab/). 
- I earned a Bachelor's degree in [Cognitive Science](https://plato.stanford.edu/entries/cognitive-science/) from the University of Tübingen, Germany (2022) with semesters abroad in Taiwan and Hong Kong, 
- and my Bachelor's thesis on "Probabilistic Modeling of Infectious Disease Dynamics" was advised by [Prof. Philipp Hennig](https://uni-tuebingen.de/en/fakultaeten/mathematisch-naturwissenschaftliche-fakultaet/fachbereiche/informatik/lehrstuehle/methods-of-machine-learning/start/).
+Outside of work, I enjoy cycling, board games, and trying new sports.
 
-Currently, I am a research analyst at the [Center for Computational Neuroscience of the Flatiron Institute (CCN)](https://www.simonsfoundation.org/flatiron/center-for-computational-neuroscience/) in New York City. 
-Advised by [Prof. Alex Williams](https://neurostatslab.org/), my work focuses on developing **a scalable Bayesian machine learning framework** to support adaptive trial placement  in psychophysical experiments  to better understand human (color) perception.
-I am broadly interested in the **computational ingredients of intelligence** — both human and artificial. 
-My current thesis research focuses on **causal reasoning** in humans and **large language models (LLMs)**, with a recent [publication examining how LLMs compare to human causal inference patterns and biases](https://arxiv.org/abs/2502.10215v1).
- More broadly, I'm interested in using machine learning methods to deepen our understanding of human cognition, while drawing on insights from psychology to inform the development of more reliable AI systems that more closely mirror human expectations.
 
-Looking ahead, I'm particularly excited about the role of **uncertainty quantification** in making AI systems more robust and **trustworthy**. 
-I believe that enabling AI systems *to know what they don't know* — and to communicate this uncertainty appropriately — will be crucial for deploying them safely in real-world scenarios. 
-I'm also interested in exploring how insights from human cognition can inform the development of more adaptive **agentic AI** systems that can pursue goals autonomously while learning efficiently from limited data and generalizing better to new situations.
+## Education
 
-In my free time, I enjoy travelling by bicycle, board games, and  playing any sports that involves a ball.
+- **M.Sc.** [Machine Learning, University of Tübingen, Germany](https://uni-tuebingen.de/en/study/finding-a-course/degree-programs-available/detail/course/machine-learning-master/) — exp. 02/2026  
+  - **[Thesis](https://hmd101.github.io/assets/pdf/papers/thesis_09_24_25.pdf):** _Reasoning Strategies and Robustness in Language Models: A Cognitive View_  
+    (advised by [Prof. Charley Wu](https://hmc-lab.com), [Prof. Bob Rehder](https://wp.nyu.edu/bobrehderlab/), and [Prof. Brenden Lake](https://lake-lab.github.io/))
+- **M.A.** [Psychology, New York University (NYU)](https://as.nyu.edu/departments/psychology/graduate/ma-psychology.html) — 2025  
+  - **Fulbright scholarship** covering tuition and living expenses  
+  - Advised by [Prof. Brenden Lake](https://lake-lab.github.io/) and [Prof. Bob Rehder](https://wp.nyu.edu/bobrehderlab/)
+- **B.Sc.** Cognitive Science, University of Tübingen — 2022  
+  - Semesters abroad: National Cheng Kung University, Taiwan; The University of Hong Kong  
+  - **Thesis:** _Probabilistic Modeling of Infectious Disease Dynamics_ (advised by [Prof. Philipp Hennig](https://uni-tuebingen.de/en/fakultaeten/mathematisch-naturwissenschaftliche-fakultaet/fachbereiche/informatik/lehrstuehle/methods-of-machine-learning/start/))
