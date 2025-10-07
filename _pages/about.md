@@ -11,7 +11,7 @@ profile:
   more_info: > # e.g. address below picture
 
 news: false # includes a list of news items
-selected_papers: false # includes a list of papers marked as "selected={true}"
+selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
 
@@ -27,9 +27,9 @@ Link to your social media connections, too. This theme is set up to use [Font Aw
 
 
 
-I am currently a Research Associate at the [Flatiron Institute](https://www.simonsfoundation.org/flatiron/center-for-computational-neuroscience/), where I develop [psyphy](https://hmd101.github.io/psyphy/), an open-source framework for cognitive modeling and adaptive experiments. More broadly, my work focuses on building reproducible computational tools to formalize and quantify human and AI cognition.
+I am currently a Research Associate at the [Flatiron Institute](https://www.simonsfoundation.org/flatiron/center-for-computational-neuroscience/), where I develop [psyphy](https://hmd101.github.io/psyphy/), an open-source framework for cognitive modeling and adaptive experiments. 
 
-As a Fulbright scholar at NYU, under the supervision of [Prof. Brenden Lake](https://lake-lab.github.io/) and  [Prof. Bob Rehder](https://wp.nyu.edu/bobrehderlab/), I investigated human–AI alignment through the lens of causal reasoning. This work culminated in a [peer-reviewed publication](https://arxiv.org/abs/2502.10215) and was further developed in my master’s [thesis](https://hmd101.github.io/assets/pdf/papers/thesis_09_24_25.pdf), which introduced  [causAIign](https://github.com/hmd101/causAIign), an open-source benchmark and analysis framework for comparing human and LLM reasoning on the same causal tasks. Broadly, I am interested in narrowing the gap between human and machine cognition — working toward AI systems that, especially in sensitive domains such as healthcare, can represent users’ goals and intentions and interact in ways that are cooperative, trustworthy, and aligned with human well-being.
+As a Fulbright scholar at NYU, under the supervision of [Prof. Brenden Lake](https://lake-lab.github.io/) and  [Prof. Bob Rehder](https://wp.nyu.edu/bobrehderlab/), I investigated human–AI alignment through the lens of causal reasoning. This work culminated in [causAIign](https://github.com/hmd101/causAIign), an open-source benchmark and analysis framework for comparing human and LLM reasoning on the same causal tasks. Broadly, I am interested in narrowing the gap between human and machine cognition — working toward AI systems that, especially in sensitive domains such as healthcare, can represent users’ goals and intentions and interact in ways that are cooperative, trustworthy, and aligned with human values.
 
 Outside of work, I enjoy cycling, board games, and trying new sports.
 
