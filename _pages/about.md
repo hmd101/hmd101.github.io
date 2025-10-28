@@ -27,7 +27,7 @@ Link to your social media connections, too. This theme is set up to use [Font Aw
 
 
 
-I am currently a Research Associate (full-time) at the [Flatiron Institute](https://www.simonsfoundation.org/flatiron/center-for-computational-neuroscience/), where I develop [psyphy](https://hmd101.github.io/psyphy/), an open-source framework for cognitive modeling and adaptive experiments. 
+I am currently a Research Associate (full-time) at the [Flatiron Institute](https://www.simonsfoundation.org/flatiron/center-for-computational-neuroscience/) advised by [Alex Wiliams](https://www.simonsfoundation.org/people/alex-williams/), where I develop [psyphy](https://hmd101.github.io/psyphy/), an open-source framework for cognitive modeling and adaptive experiments. 
 
 As a Fulbright scholar at NYU, under the supervision of [Prof. Brenden Lake](https://lake-lab.github.io/) and  [Prof. Bob Rehder](https://wp.nyu.edu/bobrehderlab/), I investigated human–AI alignment through the lens of causal reasoning. This work culminated in [causAIign](https://github.com/hmd101/causAIign), an open-source benchmark and analysis framework for comparing human and LLM reasoning on the same causal tasks. Broadly, I am interested in narrowing the gap between human and machine cognition — working toward AI systems that, especially in sensitive domains such as healthcare, can represent users’ goals and intentions and interact in ways that are cooperative, trustworthy, and aligned with human values.
 
