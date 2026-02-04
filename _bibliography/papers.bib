@@ -52,12 +52,12 @@
   abstract    = {
                  Large Language Models (LLMs) have made significant strides in natural language processing and exhibit impressive capabilities in natural language understanding and generation.
                  However, to what degree language models are able to perform causal reasoning, often considered a hallmark of intelligence, and whether their responses align with human reasoning remains underexplored.
-                 However, how they reason, and to what degree they align with human reasoning remains underexplored. 
+                 However, how they reason, and to what degree they align with human reasoning remains underexplored.
                  To this end, we evaluate over 20 LLMs on 11  causal reasoning tasks formalized by a collider graph and compare their performance to that of humans on the same tasks. We also evaluate to what extent causal reasoning depends on knowledge about common causal relationships in the natural world, on the degree of irrelevant information in the prompt, and on the reasoning budget.
                  We find that most LLMs are aligned with  human reasoning up to ceiling effects with chain of thought increasing alignment for LLMs that were misaligned under single-shot prompting.
                  We further find  that most LLMs reason in a more deterministic, rule-like way than humans.
-                 Chain-of-thought prompting increases reasoning consistency and, under noisy prompts, also pushes some LLMs' reasoning from a probabilistic to a more deterministic regime. 
-                 Reasoning is robust to replacing real-world content with abstract placeholders but degrades when prompts are injected with irrelevant text; in these cases, chain-of-thought recovers much of the lost performance. 
+                 Chain-of-thought prompting increases reasoning consistency and, under noisy prompts, also pushes some LLMs' reasoning from a probabilistic to a more deterministic regime.
+                 Reasoning is robust to replacing real-world content with abstract placeholders but degrades when prompts are injected with irrelevant text; in these cases, chain-of-thought recovers much of the lost performance.
                  Across experiments, many models exceed human baselines on qualitative reasoning signatures such as explaining-away and Markov compliance, which humans typically exhibit only weakly or violate.
                  Together, we find a divergence in reasoning style: humans rely more on probabilistic judgments, whereas many LLMs default to near-deterministic rules. Such determinism can enhance reliability and augment human reasoning by providing stable, rule-like outputs. Yet it also risks failure in real-world settings where uncertainty is intrinsic, underscoring the need to better characterize LLM reasoning strategies to guide their safe and effective application.},
   pdf         = {papers/thesis_09_24_25.pdf},
@@ -91,4 +91,17 @@
   preview     = {wiml_2024.png},
   selected    = {false},
   pdf         = {papers/wiml_2024.pdf}
+}
+
+@misc{dettki2026llmsbiasedlikehumans,
+  title         = {Are LLMs Biased Like Humans? Causal Reasoning as a Function of Prior Knowledge, Irrelevant Information, and Reasoning Budget},
+  author        = {Hanna M. Dettki and Charley M. Wu and Bob Rehder},
+  year          = {2026},
+  eprint        = {2602.02983},
+  archiveprefix = {arXiv},
+  primaryclass  = {cs.AI},
+  code          = {https://github.com/hmd101/causAIign},
+  selected      = {true},
+  preview       = {human-AI.png},
+  url           = {https://arxiv.org/abs/2602.02983}
 }
