@@ -31,7 +31,7 @@ I am currently a Research Associate (full-time) at the [Flatiron Institute](http
 
 As a Fulbright scholar at NYU, under the supervision of [Prof. Brenden Lake](https://lake-lab.github.io/) and  [Prof. Bob Rehder](https://wp.nyu.edu/bobrehderlab/), I investigated human–AI alignment through the lens of causal reasoning. This work culminated in [causAIign](https://github.com/hmd101/causAIign), an open-source benchmark and analysis framework for comparing human and LLM reasoning on the same causal tasks. Broadly, I am interested in narrowing the gap between human and machine cognition — working toward AI systems that, especially in sensitive domains such as healthcare, can represent users’ goals and intentions and interact in ways that are cooperative, trustworthy, and aligned with human values.
 
-Outside of work, I enjoy cycling, board games, and trying new sports.
+Outside of work, I enjoy traveling by bicycle (bikepacking), board games, and trying new sports.
 
 
 ## Education
