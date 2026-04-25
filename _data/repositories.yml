@@ -4,7 +4,7 @@ github_users:
 repo_description_lines_max: 3
 
 github_repos:
-  - hmd101/psyphy
+  - flatironinstitute/psyphy
   - hmd101/causAIign
   - plenoptic-org/plenoptic
   - hmd101/deepCars
