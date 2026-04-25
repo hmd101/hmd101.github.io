@@ -36,7 +36,7 @@ Outside of work, I enjoy traveling by bicycle (bikepacking), board games, and tr
 
 ## Education
 
-- **M.Sc.** [Machine Learning, University of Tübingen, Germany](https://uni-tuebingen.de/en/study/finding-a-course/degree-programs-available/detail/course/machine-learning-master/) — exp. 02/2026
+- **M.Sc.** [Machine Learning, University of Tübingen, Germany](https://uni-tuebingen.de/en/study/finding-a-course/degree-programs-available/detail/course/machine-learning-master/) — exp. 08/2026
   - **[Thesis](https://hmd101.github.io/assets/pdf/papers/thesis_09_24_25.pdf):** _Reasoning Strategies and Robustness in Language Models: A Cognitive View_
     (advised by [Prof. Charley Wu](https://hmc-lab.com), [Prof. Bob Rehder](https://wp.nyu.edu/bobrehderlab/), and [Prof. Brenden Lake](https://lake-lab.github.io/))
 - **M.A.** [Psychology, New York University (NYU)](https://as.nyu.edu/departments/psychology/graduate/ma-psychology.html) — 2025
