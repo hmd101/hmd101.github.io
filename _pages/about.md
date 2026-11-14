@@ -25,15 +25,13 @@ Put your address / P.O. box / other info right below your picture. You can also 
 Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
 -->
 
+My long-term goal is to build computational models of cognition that learn efficiently from everyday behavior and language, and to use them to guide when and how to intervene when someone's mental health is changing.
 
+Currently, I am a Research Analyst at the [Flatiron Institute](https://www.simonsfoundation.org/flatiron/center-for-computational-neuroscience/)'s Center for Computational Neuroscience, working with [Alex Williams](https://www.simonsfoundation.org/people/alex-williams/) on efficiently modeling human perception. I lead the development of [psyphy](https://flatironinstitute.github.io/psyphy/), an open-source JAX package for posterior inference and adaptive experimental design in probabilistic models of perception. 
 
-I am currently a Research Associate (full-time) at the [Flatiron Institute](https://www.simonsfoundation.org/flatiron/center-for-computational-neuroscience/) advised by [Alex Williams](https://www.simonsfoundation.org/people/alex-williams/), where I develop [psyphy](https://flatironinstitute.github.io/psyphy/), an open-source framework for cognitive modeling and adaptive experiments.
-
-As a Fulbright scholar at NYU, under the supervision of [Prof. Brenden Lake](https://lake-lab.github.io/) and  [Prof. Bob Rehder](https://wp.nyu.edu/bobrehderlab/), I investigated human–AI alignment through the lens of causal reasoning. This work culminated in [causAIign](https://github.com/hmd101/causAIign), an open-source benchmark and analysis framework for comparing human and LLM reasoning on the same causal tasks. Broadly, I am interested in narrowing the gap between human and machine cognition — working toward AI systems that, especially in sensitive domains such as healthcare, can represent users’ goals and intentions and interact in ways that are cooperative, trustworthy, and aligned with human values.
+Previously, as a Fulbright scholar at NYU with [Brenden Lake](https://lake-lab.github.io/) and [Bob Rehder](https://wp.nyu.edu/bobrehderlab/), I tested when LLMs' judgments about cause and effect can stand in for human ones, a question that matters more as people increasingly turn to LLMs for advice on mental and physical health.
 
 Outside of work, I enjoy traveling by bicycle (bikepacking), board games, and trying new sports.
-
-
 ## Education
 
 - **M.Sc.** [Machine Learning, University of Tübingen, Germany](https://uni-tuebingen.de/en/study/finding-a-course/degree-programs-available/detail/course/machine-learning-master/) — exp. 08/2026
